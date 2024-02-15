@@ -39,4 +39,4 @@ bun dev
 
 node
 
-### 作業 2 FE(Not Angular) 作答放在根目錄
+### 作業 2 FE(Not Angular) 作答放在根目錄 FE(Not Angular).html 內
